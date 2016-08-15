@@ -1,0 +1,8 @@
+name: HomeCmd
+main: com.homecmd.Main
+version: 0.1
+author: MasahiroSaito
+load: POSTWORLD
+commands:
+  home:
+    usage: /<command>
